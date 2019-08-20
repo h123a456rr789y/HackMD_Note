@@ -1,3 +1,11 @@
+---
+title: 5G Security (Overview of 5G Security Challenges and Solutions)
+tags: Intern, 5G Security
+description: 5g security paper
+---
+
+
+
 # 5G Security (Overview of 5G Security Challenges and Solutions)
 ## Overview of 5G Security Challenges and Solutions
 - MEC, SDN, and (NFV) are sought out to meet the growing user and service demands with-in the constraints of capital expenditures
