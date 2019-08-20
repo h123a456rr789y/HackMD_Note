@@ -1,3 +1,10 @@
+---
+title: Recompile Kernel on Linux
+tags: Intern, APM
+description: Recompile to fit the hardware
+---
+
+
 # Recompile Kernel on Linux
 
 ## Prerequisite of Building the Kernel
